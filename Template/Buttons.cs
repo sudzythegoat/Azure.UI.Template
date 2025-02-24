@@ -3,7 +3,7 @@ public static class Buttons
     public static string button1_name = "Button 1";
     public static void Button1()
     {
-        /* Functionality */
+        Mods.Platforms();
     }
 
     public static string button2_name = "Button 2";
